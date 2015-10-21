@@ -41,35 +41,35 @@ The book then introduces and illustrates more advanced techniques such as:
 
 More information about Larry Nagel and SPICE is available from here:
 
-<span style="font-style:italic">[http://www.omega-enterprises.net/The%20Origins%20of%20SPICE.html](http://www.omega-enterprises.net/The%20Origins%20of%20SPICE.html)</span>
+[http://www.omega-enterprises.net/The%20Origins%20of%20SPICE.html](http://www.omega-enterprises.net/The%20Origins%20of%20SPICE.html)
 
 Larry Nagel's PhD Dissertation:
 
-<span style="font-style:italic">Laurence W. Nagel., &#8220;SPICE2: A Computer Program to Simulate Semiconductor Circuits,&#8221;</span>
+Laurence W. Nagel., &#8220;SPICE2: A Computer Program to Simulate Semiconductor Circuits,&#8221;
 
 Memorandum No. ERL-M520, University of California, Berkeley, May 1975.
 
-[<span style="font-style:italic">http://www.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-520.pdf</span>](http://www.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-520.pdf)
+[http://www.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-520.pdf](http://www.eecs.berkeley.edu/Pubs/TechRpts/1975/ERL-520.pdf)
 
 is actually very readable and instructive.
 
 For more information about electronic circuit simulation and spice in particular, see:
 
-<span style="font-style:italic">[http://en.wikipedia.org/wiki/Electronic_circuit_simulation](http://en.wikipedia.org/wiki/Electronic_circuit_simulation)</span>
+[http://en.wikipedia.org/wiki/Electronic_circuit_simulation](http://en.wikipedia.org/wiki/Electronic_circuit_simulation)
 
 and:
 
-<span style="font-style:italic">[http://en.wikipedia.org/wiki/SPICE](http://en.wikipedia.org/wiki/SPICE)</span>
+[http://en.wikipedia.org/wiki/SPICE](http://en.wikipedia.org/wiki/SPICE)
 
 More information about ngpsice is available from here:
 
-<span style="font-style:italic">[http://ngspice.sourceforge.net/presentation.html](http://ngspice.sourceforge.net/presentation.html)</span>
+[http://ngspice.sourceforge.net/presentation.html](http://ngspice.sourceforge.net/presentation.html)
 
-## <a name="Who_this_book_is_for"></a>Who this book is for
+## Who this book is for
 
 All simulation tools and how they interact with schematic capture tools are different so even for people with experience of using simulation tools, it is worth at least skimming through the sections of this book to get an idea of where to find information if things don't seem to go quite as planned.
 
-However, for people with limited or no previous experience of using simulation tools, this book is <span style="font-style:italic">essential</span> reading.
+However, for people with limited or no previous experience of using simulation tools, this book is *essential* reading.
 
 Why?
 
